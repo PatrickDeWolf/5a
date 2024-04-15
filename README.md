@@ -3,3 +3,4 @@
 Oplossingen oefeningen
 
 Oplossing: gemiddelde
+passwoordGenerator.php
